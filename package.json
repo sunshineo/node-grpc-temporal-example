@@ -1,0 +1,12 @@
+{
+  "name": "node-grpc-temporal-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.2.2",
+    "@grpc/proto-loader": "^0.5.5",
+    "google-protobuf": "^3.14.0",
+    "protobufjs": "^6.10.2"
+  }
+}
